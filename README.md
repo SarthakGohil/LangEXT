@@ -37,8 +37,3 @@ python rag/LangEXT/txt_extract.py
 # Code classification demo
 python rag/LangEXT/LE_1.py
 ```
-
-## Note
-
-If any API keys are hardcoded in scripts, remove them before pushing to GitHub and rotate the keys.
-
